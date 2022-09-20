@@ -13,7 +13,7 @@ This repository was made for the Italian version of the NAO Challenge, if you ar
 
 ## Cos'è NAO Challenge? 🤖
 La NAO Challenge è un percorso didattico sviluppato attraverso lo strumento del contest, dedicato agli studenti delle scuole secondarie di secondo grado con l’obiettivo di accrescere la conoscenza dei giovani nell’impiego della robotica umanoide attraverso lo sviluppo di software da utilizzare in situazioni plausibili e verosimili per divulgare le potenzialità sociali della robotica di servizio. 
-La NAO Challenge è stata organizzata per la prima volta in Italia nel 2015 da [Scuola di Robotica](https://www.scuoladirobotica.it/) in collaborazione di [SoftBank Robotics](https://softbankrobotics.com/) e [CampuStore](https://www.campustore.it/).  
+La NAO Challenge è stata organizzata per la prima volta in Italia nel 2015 da [Scuola di Robotica](https://www.scuoladirobotica.it/) in collaborazione con [SoftBank Robotics](https://softbankrobotics.com/) e [CampuStore](https://www.campustore.it/).  
 
 ## Come posso partecipare a NAO Challenge? 📄
 Per iscriverti alla NAO Challenge devi rivolgerti al [form di iscrizione](https://www.naochallenge.it/iscriviti/) presente sul sito ufficiale, è necessario iscriversi con il proprio istituto e, se sei uno studente, devi trovare un coach tra i professori, che si occuperà della gestione del team.
